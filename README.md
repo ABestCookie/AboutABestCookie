@@ -8,6 +8,8 @@
 
 我目前正在一邊玩PUBG M一邊努力學習Python。
 
+喔對了，我瘋了，在下面放了四種語言對照
+
 # 
 English en-us
 
@@ -24,3 +26,21 @@ I am currently working hard to learn Python while playing PUBG M.
 大家好，我是来自台湾的初二生。
 我非常喜欢玩极客。
 我目前正在一边玩PUBG M一边努力学习Python。
+#
+日本語jp
+
+
+皆さんこんにちは、私は台湾から来た中学2年生です。
+
+私はプログラミングが本当に好きです。
+
+現在PUBG MをプレイしながらPythonを勉強中です。
+#
+한국어kr
+
+
+여러분, 안녕하세요. 저는 대만의 고등학교 2학년 학생입니다.
+
+저는 프로그래밍을 정말 좋아해요.
+
+저는 현재 PUBG M을 플레이하면서 Python을 배우고 있습니다.
