@@ -27,7 +27,7 @@ I am currently working hard to learn Python while playing PUBG M.
 我非常喜欢玩极客。
 我目前正在一边玩PUBG M一边努力学习Python。
 #
-日本語jp
+日本語 jp
 
 
 皆さんこんにちは、私は台湾から来た中学3年生です。
@@ -36,7 +36,7 @@ I am currently working hard to learn Python while playing PUBG M.
 
 現在PUBG MをプレイしながらPythonを勉強中です。
 #
-한국어kr
+한국어 kr
 
 
 여러분, 안녕하세요. 저는 대만의 고등학교 3학년 학생입니다.
